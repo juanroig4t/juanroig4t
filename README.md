@@ -7,7 +7,8 @@
 
 ## About me
 
-- 📲 Mobile developer
+- 📲 Mobile Android developer
+- 🔭 I’m currently working on NttData
 <br>
 
 ## Personal projects
@@ -37,9 +38,23 @@
 </a>
 </p>
 
+### 🏆 GitHub Thropies :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=juanroig4t)](https://github.com/juanroig4t/github-profile-trophy)
+
+<br>
+
+
 <!--
 **juanroig4t/juanroig4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=juanroig4t&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
