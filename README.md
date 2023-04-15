@@ -2,37 +2,13 @@
   <h1 align="center">Hi, I am Juan 👋</h1>
 </div>
 
-<style>
-.background {
-  background-image: url("img/header.jpg");
-  background-size: contains;
-  width: 100%;
-  height: 200px;
-}
-</style>
-
-<div class="background">
-  <h1> Android senior developer</h1>
+<div align="center">
+  <img src="img/header2.png"
+  width="100%" 
+  height="200">
 </div>
      
-<div style="width: 100%;
-    height: 200px;
-    overflow: hidden;
-    margin: 10px;
-    position: relative;">
-    <img style="position:absolute;left: -100%;right: -100%;
-    top: -100%;
-    bottom: -100%;
-    margin: auto;
-    min-height: 100%;
-    min-width: 100%;" src="https://as2.ftcdn.net/v2/jpg/02/16/22/71/1000_F_216227148_C1zrS49c1mjy1wlpaqBgbOOtgozOIRbK.jpg" />
-</div>
 <!--
-<div align="center"
-width="100%" 
-height="200">
-  <img src="img/header.jpg">
-</div>
 <div style="width: 200px;
     height: 200px;
     overflow: hidden;
