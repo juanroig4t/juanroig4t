@@ -31,16 +31,10 @@
 - 🔭 I’m currently working on NttData
 <br>
 
-### Programming Languages:
-<img loading="lazy" src="img/kotlin_logo.png" height= "60">
-<img loading="lazy" src="img/Java_logo.png" height= "60">
-<img loading="lazy" src="img/python.png" height= "60">
-<img loading="lazy" src="img/sql.png" height= "60">
-<img loading="lazy" src="img/javascript.png" height= "60">
-<img loading="lazy" src="img/html.png" height= "60">
-
-
 <!--
+### Programming Languages:
+<img loading="lazy" src="img/kotlin_logo.png" height= "60"><img loading="lazy" src="img/Java_logo.png" height= "60"><img loading="lazy" src="img/sql.png" height= "60">
+
 ## Personal projects
 <table>
 <tr>
@@ -64,8 +58,7 @@
 
 <p align="center">
 <a href="https://github.com/juanroig4t">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanroig4t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanroig4t&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanroig4t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanroig4t&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
