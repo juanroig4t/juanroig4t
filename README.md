@@ -13,7 +13,7 @@
 ## About me
 
 - 📲 Mobile developer
-- 🔭 I’m currently working on NttData
+- 🔭 I’m currently working on Ntt Data
 - 🏡 Living in Spain
 <br>
 
